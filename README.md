@@ -18,4 +18,7 @@ what you need to run this-
 2. JDK 18
 3. MySQL connector.
 
+Languages used-
+1. JAVA
+2. JAVA Swing
    
